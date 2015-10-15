@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><HybrisTestcockpits><testclass>com.epam.hybris.test.cockpits.jalo.YAcceleratorcockpitsTest</testclass><testclass>com.epam.hybris.test.cockpits.cmscockpit.CmsCockpitConfigurationTest</testclass><testclass>com.epam.hybris.test.cockpits.cmscockpit.sitewizard.CMSSiteUtilsTest</testclass></HybrisTestcockpits></testclasses>
