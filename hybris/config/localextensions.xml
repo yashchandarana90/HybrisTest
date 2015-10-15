@@ -1,0 +1,29 @@
+<hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
+  <extensions>
+    <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
+    <extension name='mcc' />
+    <extension name='backoffice' />
+    <extension name='commercesearchbackoffice' />
+
+    <!-- <extension name='yacceleratorcockpits' />
+    <extension name='yacceleratorinitialdata' />
+    <extension name='yacceleratorstorefront' /> -->
+
+    <extension name='yaddon' />
+    <extension name='ycommercewebservices' />
+    <extension name='electronicsstore' />
+    <extension name='apparelstore' />
+    <extension name='b2ccheckoutaddon' />
+    <extension name='liveeditaddon' />
+    <extension name='acceleratorwebservicesaddon' />
+	
+	<!-- Custom extensions -->
+	 <extension name="HybrisTestcockpits" />
+	<extension name="HybrisTestcore" />
+	<extension name="HybrisTestfacades" />
+	<extension name="HybrisTestfulfilmentprocess" />
+    <extension name="HybrisTestinitialdata" />
+    <extension name="HybrisTeststorefront" />
+	
+  </extensions>
+</hybrisconfig>
